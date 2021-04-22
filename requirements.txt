@@ -1,8 +1,1 @@
-pydeck==0.6.2
-numpy==1.19.2
-matplotlib==3.3.4
-Shapely==1.7.1
-geopandas==0.6.1
-pandas==1.2.4
-seaborn==0.11.1s
 streamlit==0.80.0

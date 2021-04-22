@@ -1,7 +1,3 @@
-import numpy as np
-import pandas as pd
-import geopandas as gpd
-
-import pydeck as pdk
+import streamlit as st
 
 st.write('Deploy me!')
